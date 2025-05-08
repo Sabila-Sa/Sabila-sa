@@ -1,5 +1,4 @@
-# Welcome to my little land
-## Hi, there!
+# Nice to meet you, I'm Ruru (^0^* )
 
 <!--
 **Sabila-Sa/Sabila-sa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
